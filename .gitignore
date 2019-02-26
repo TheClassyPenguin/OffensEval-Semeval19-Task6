@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.pt
+.tsv
+.txt
+.csv
+.md
+data/
+starting_kit/
+LICENSE
